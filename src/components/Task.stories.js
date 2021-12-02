@@ -8,7 +8,7 @@ export default {
 };
 
 const Template = (args) => <Task {...args} />;
-const a = "";
+const b = "";
 
 export const Default = Template.bind({});
 Default.args = {
